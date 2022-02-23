@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "774389720463",
+    "project_id": "ride-app-edvora-bde81",
+    "storage_bucket": "ride-app-edvora-bde81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774389720463:android:1cdfe6de839a0a935557fa",
+        "android_client_info": {
+          "package_name": "com.pratikchakraborty.ride_app_edvora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774389720463-j03nlbcc1uqptac7r318svh0oiodg2fe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3VHfaWcWVHQ6mDDYMal2s-D1s4jz8FyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774389720463-j03nlbcc1uqptac7r318svh0oiodg2fe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
