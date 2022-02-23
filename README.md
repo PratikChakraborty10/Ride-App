@@ -2,4 +2,4 @@
 
 **Screenshots**
 
-[App ScreenShot](https://postimg.cc/w1SWbD5S)
+[App ScreenShot](https://ibb.co/WcFJWB4)
